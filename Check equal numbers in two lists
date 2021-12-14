@@ -41,13 +41,13 @@ for(var i=0; i<size; i++)
     {
       input3=list2[j];
       equal.add(input3);
-      print("following numbers are equal in both lists");
-      print(equal);
     }
      
   }
 
 }
+  print("following numbers are equal in both lists");
+  print(equal);
 if(equal.isEmpty){
 print("no any equal numbers");
 }
